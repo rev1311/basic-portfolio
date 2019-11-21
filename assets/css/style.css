@@ -39,6 +39,17 @@ a {
     padding: 0;
 }
 
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img#profilepic {
+    float: left;
+    padding: 10px;
+    width: 75px;
+    height: 100px;
+}
+
 #name {
     box-sizing: border-box;
     float: left;
@@ -59,6 +70,10 @@ a {
     right: 0;
     padding: 20px 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+hr {
+    border: 2px solid #999;
 }
 
 #about {
@@ -124,20 +139,9 @@ input[type=submit]:hover {
     border: 2px solid rgb(74, 170, 165)
 }
 
-hr {
-    border: 2px solid #999;
-}
 
-p {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
 
-img#profilepic {
-    float: left;
-    padding: 10px;
-    width: 75px;
-    height: 100px;
-}
+
 
 footer {
     clear:both;
