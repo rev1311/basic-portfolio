@@ -1,6 +1,6 @@
 # Basic Portfolio
 
-Week One - basic portfolio homework
+Week One - basic portfolio site. Contains information about the author, a small portfolio gallery with links, and a form submission page to make contact.
 
 ## Built With
 
