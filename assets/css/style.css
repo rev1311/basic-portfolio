@@ -76,6 +76,54 @@ a {
     /* opacity: 0.85; */
 }
 
+#form {
+    box-sizing: border-box;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ccc;
+    clear: both;
+    width: 960px;
+    background-color: #fff;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 200%;
+    /* opacity: 0.85; */
+}
+
+input[type=text] {
+    width: 98%;
+    padding: 5px;
+}
+
+input[type=text]:focus{
+    background-color: #eee;
+    border: 2px solid rgb(74, 170, 165);
+}
+
+#msg {
+    width: 99%;
+    height: 100px;
+    resize: none;
+}
+
+textarea:focus {
+    background-color: #eee;
+    border: 2px solid rgb(74, 170, 165);
+}
+
+#sub {
+    width: 100px;
+    height: 50px;
+    background-color: rgb(74, 170, 165);
+    color: #fff;
+}
+
+input[type=submit]:hover {
+    background-color: rgb(135, 248, 242);
+    border: 2px solid rgb(74, 170, 165)
+}
+
 hr {
     border: 2px solid #999;
 }
