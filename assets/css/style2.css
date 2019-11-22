@@ -1,0 +1,124 @@
+body {
+    box-sizing: border-box;
+    background-image: url(../images/bg3.jpg);
+    background-color: #aaa;
+    background-size: cover;
+    color: #777777;
+}
+
+header {
+    background-color: #fff;
+    border-style: solid;
+    border-width: 2px;
+    border-color: transparent transparent #ccc transparent;
+    height: 75px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20pt;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #777777;
+}
+
+.container {
+    position: relative;
+    width: 960px;
+    height: 75px;
+    background-color: transparent;
+    margin: 0 auto;
+    padding: 0;
+}
+
+#name {
+    box-sizing: border-box;
+    float: left;
+    margin-top: -2px;
+    padding: 15px 10px;
+    height: 76.5px;
+    background-color: #4aaaa5;
+    color: #fff;
+    position: absolute;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#nav {
+    background-color: #fff;
+    color: #777777;
+    position: absolute;
+    bottom: 20%;
+    right: 0;
+    padding: 20px 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr {
+    border: 2px solid #777777;
+}
+
+#form {
+    box-sizing: border-box;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #dddddd;
+    clear: both;
+    width: 960px;
+    height: 850px;
+    background-color: #fff;
+    margin: 0 auto 50px auto;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 200%;
+    position: relative;
+    /* opacity: 0.85; */
+}
+
+.con {
+    position: relative;
+    float: left;
+    margin: 0 40px 30px 0;
+}
+
+.con a:first-child {
+    color: #fff;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+}
+
+.banner {
+    box-sizing: border-box;
+    width: 300px;
+    height: 50px;
+    background-color: #4aaaa5;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: absolute;
+    float: left;
+    bottom: 30px;
+}
+
+footer {
+    clear:both;
+    background-color: #666;
+    border-top: 8px solid #4aaaa5;
+    height: 25px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    margin: 0 auto;
+    padding: 20;
+    font-size: 8pt;
+    text-align: center;
+    color: #fff;
+}
