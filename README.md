@@ -21,9 +21,6 @@ Week One - basic portfolio site. Contains information about the author, a small 
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project. HINT: Just me.
 
-## License
-
-We dont need no stinking license!! 
 
 ## Acknowledgments
 
