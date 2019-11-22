@@ -4,6 +4,8 @@ body {
     background-color: #aaa;
     background-size: cover;
     color: #777777;
+    font-size: 16pt;
+    line-height: 150%;
 }
 
 header {
@@ -19,7 +21,7 @@ header {
 
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 20pt;
+    font-size: 24pt;
     padding: 10px;
 }
 
@@ -44,8 +46,8 @@ p {
 img#profilepic {
     float: left;
     padding: 10px;
-    width: 75px;
-    height: 100px;
+    width: 100px;
+    /* height: 100px; */
 }
 
 #name {
@@ -64,7 +66,7 @@ img#profilepic {
     background-color: #fff;
     color: #777777;
     position: absolute;
-    bottom: 20%;
+    bottom: 0;
     right: 0;
     padding: 20px 0;
     font-family: Arial, Helvetica, sans-serif;
@@ -98,7 +100,7 @@ hr {
     width: 960px;
     height: 100%;
     background-color: #fff;
-    margin: 0 auto;
+    margin: 0 auto 40px auto;
     padding: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     line-height: 200%;
