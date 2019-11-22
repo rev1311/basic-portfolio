@@ -4,6 +4,8 @@ body {
     background-color: #aaa;
     background-size: cover;
     color: #777777;
+    font-size: 16pt;
+    line-height: 150%;
 }
 
 header {
@@ -19,7 +21,7 @@ header {
 
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 20pt;
+    font-size: 24pt;
     padding: 10px;
 }
 
@@ -53,7 +55,7 @@ a {
     background-color: #fff;
     color: #777777;
     position: absolute;
-    bottom: 20%;
+    bottom: 0;
     right: 0;
     padding: 20px 0;
     font-family: Arial, Helvetica, sans-serif;
