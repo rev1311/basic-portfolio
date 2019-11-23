@@ -18,7 +18,7 @@ Week One - basic portfolio site. Contains information about the author, a small 
 
 - [Link to Portfolio Site](https://rev1311.github.io/basic-portfolio/)
 - [Link to Github](https://github.com/rev1311)
-- [Link to LinkedIn](https;//linkedin.com/in/michael-partin-49ba1081)
+- [Link to LinkedIn](https://linkedin.com/in/michael-partin-49ba1081)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project. HINT: Just me.
 
